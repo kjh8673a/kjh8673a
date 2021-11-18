@@ -14,3 +14,36 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+  [![github stats](https://github-readme-stats.vercel.app/api?username=kjh8673a&show_icons=true&hide_border=true)](https://github.com/kjh8673a)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kjh8673a&layout=compact)](https://github.com/kjh8673a)
+<br><br>
+
+
+<h3> 🌱 Techs that I've used at least once </h3>
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/>&nbsp  
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>&nbsp  
+  <img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">&nbsp
+  <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/>&nbsp
+</p>
+<br><br>
+
+
+<h3> 📫 How to reach me </h3>
+
+<p>
+  <a href="https://velog.io/@kjh8673a"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@kjh8673a"/></a>&nbsp
+  <a href="https://www.instagram.com/g_hoooon/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/g_hoooon/"/></a>&nbsp
+  <a href="mailto:kjh8673a@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kjh8673a@gmail.com"/></a>&nbsp
+  <a href="mailto:kjh8673a@naver.com"><img src="https://img.shields.io/badge/Email-03C75A?style=flat-square&logo=Naver&logoColor=white&link=kjh8673a@naver.com"/></a>&nbsp
+</p>
+<br><br>
+
+<p>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkjh8673a&count_bg=%23ED6DA3&title_bg=%2386757E&icon=github.svg&icon_color=%23E1DEDE&title=hits&edge_flat=false"/></a>
+</p>
