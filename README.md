@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 </p>
 <br><br>
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=kjh8673a&show_icons=true&theme=tokyonight)](https://github.com/kjh8673a)
+[![github stats](https://github-readme-stats.vercel.app/api?username=kjh8673a&show_icons=true&theme=dracula)](https://github.com/kjh8673a)
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kjh8673a&layout=compact)](https://github.com/kjh8673a)
 <br><br>
