@@ -17,8 +17,10 @@ Here are some ideas to get you started:
 -->
 
   [![github stats](https://github-readme-stats.vercel.app/api?username=kjh8673a&show_icons=true&hide_border=true)](https://github.com/kjh8673a)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kjh8673a&layout=compact)](https://github.com/kjh8673a)
+<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kjh8673a&layout=compact)](https://github.com/kjh8673a)
 <br><br>
+-->
 
 
 <h3> 🌱 Techs that I've used at least once </h3>
