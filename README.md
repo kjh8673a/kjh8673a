@@ -36,7 +36,8 @@ Here are some ideas to get you started:
 <h3> 📫 How to reach me </h3>
 
 <p>
-  <a href="https://velog.io/@kjh8673a"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@kjh8673a"/></a>&nbsp
+  <a href="https://velog.io/@kjh8673a"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@kjh8673a"/></a>&nbsp
+  <a href="https://blog.naver.com/kjh8673a"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/kjh8673a"/></a>&nbsp
   <a href="https://www.instagram.com/g_hoooon/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/g_hoooon/"/></a>&nbsp
   <a href="mailto:kjh8673a@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kjh8673a@gmail.com"/></a>&nbsp
   <a href="mailto:kjh8673a@naver.com"><img src="https://img.shields.io/badge/Email-03C75A?style=flat-square&logo=Naver&logoColor=white&link=kjh8673a@naver.com"/></a>&nbsp
