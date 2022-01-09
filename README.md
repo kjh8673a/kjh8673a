@@ -43,11 +43,12 @@ Here are some ideas to get you started:
 <!--   Instagtam -->
   <a href="https://www.instagram.com/g_hoooon/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/g_hoooon/"/></a>&nbsp
 <!--   Naver blog -->
-  <a href="https://blog.naver.com/kjh8673a"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/kjh8673a"/></a>&nbsp
+<!--   <a href="https://blog.naver.com/kjh8673a"><img src="https://img.shields.io/badge/Blog-03C75A?style=flat-square&logo=Naver&logoColor=white&link=https://blog.naver.com/kjh8673a"/></a>&nbsp -->
 <!--     <a href="https://blog.naver.com/kjh8673a"><img src="https://img.shields.io/badge/Daily%20Blog-1eb031?style=flat-square&link=https://blog.naver.com/kjh8673a"/></a>&nbsp -->
 <!--   Tech blog -->
-  <a href="https://velog.io/@kjh8673a"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@kjh8673a"/></a>&nbsp
+<!--   <a href="https://velog.io/@kjh8673a"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@kjh8673a"/></a>&nbsp -->
 <!--   <a href="https://velog.io/@kjh8673a"><img src="https://img.shields.io/badge/Tech%20Blog-555263?style=flat-square&link=https://velog.io/@kjh8673a"/></a>&nbsp -->
+  <a href="https://kjh8673a.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-555263?style=flat-square&link=https://kjh8673a.tistory.com/"/></a>&nbsp
 </p>
 <br><br>
 
