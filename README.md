@@ -1,6 +1,5 @@
 <!--
 ### Hi there 👋
-Hi
 
 
 **kjh8673a/kjh8673a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
