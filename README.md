@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 <!--   Tech blog -->
 <!--   <a href="https://velog.io/@kjh8673a"><img src="https://img.shields.io/badge/Velog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@kjh8673a"/></a>&nbsp -->
 <!--   <a href="https://velog.io/@kjh8673a"><img src="https://img.shields.io/badge/Tech%20Blog-555263?style=flat-square&link=https://velog.io/@kjh8673a"/></a>&nbsp -->
-  <a href="https://kjh8673a.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-555263?style=flat-square&link=https://kjh8673a.tistory.com/"/></a>&nbsp
+  <a href="https://kjh8673a.github.io/"><img src="https://img.shields.io/badge/Tech%20Blog-555263?style=flat-square&link=https://kjh8673a.tistory.com/"/></a>&nbsp
 </p>
 <br><br>
 
