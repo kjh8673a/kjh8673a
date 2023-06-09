@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kjh8673a)](https://solved.ac/kjh8673a)
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=kjh8673a&show_icons=true&theme=dracula)](https://github.com/kjh8673a)
+[![github stats](https://github-readme-stats.vercel.app/api?username=kjh8673a&show_icons=true&theme=dracula&count_private=true)](https://github.com/kjh8673a)
 
 
 
