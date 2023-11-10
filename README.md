@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 
 
@@ -32,6 +32,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/>&nbsp
 </p>
 <br>
+
+-->
 
 <h3> 📫 How to reach me </h3>
 
