@@ -34,8 +34,9 @@ Here are some ideas to get you started:
 <br>
 
 -->
+## 권지훈
 
-<h3> 📫 How to reach me </h3>
+## 📫 How to reach me
 
 <p>
 <!--   Gmail -->
