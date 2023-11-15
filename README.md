@@ -36,6 +36,8 @@ Here are some ideas to get you started:
 -->
 ## 권지훈
 
+#### [블로그 바로가기](https://kjh8673a.github.io/)
+
 ## 📫 How to reach me
 
 <p>
